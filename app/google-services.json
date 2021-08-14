@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756063181341",
+    "firebase_url": "https://traverse-medium.firebaseio.com",
+    "project_id": "traverse-medium",
+    "storage_bucket": "traverse-medium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756063181341:android:2d4c0c879920e819c884f4",
+        "android_client_info": {
+          "package_name": "com.shreyanshu.travelmedium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756063181341-1vb5grr7s2np4timi74d7ld29nilbajs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClsuG8q6oYWDsjIj80bAibosTOhm-YIvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756063181341-1vb5grr7s2np4timi74d7ld29nilbajs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
